@@ -8,7 +8,7 @@ Our team unites experts in AI, data science, applied mathematics, statistical mo
 
 Committed to advancing cutting-edge research, we pursue competitive funding opportunities and foster innovation through collaboration with industrial partners and institutions. Whether through industrial PhDs, joint research, or consultancy projects, we drive knowledge transfer to power Industry 4.0 and address societal challenges.
 
-![IE Research Datalab Team](https://github.com/IEResearchDatalab/.github/blob/main/img/team.jpg)
+<img src="https://github.com/IEResearchDatalab/.github/blob/main/img/team.jpg" alt="IE Research Datalab Team">
 
 ## Build to Breakthrough
 
