@@ -8,14 +8,14 @@ Our team unites experts in AI, data science, applied mathematics, statistical mo
 
 Committed to advancing cutting-edge research, we pursue competitive funding opportunities and foster innovation through collaboration with industrial partners and institutions. Whether through industrial PhDs, joint research, or consultancy projects, we drive knowledge transfer to power Industry 4.0 and address societal challenges.
 
-<img src="https://github.com/IEResearchDatalab/.github/blob/main/img/team.jpg" alt="IE Research Datalab Team">
+<img src="https://github.com/IEResearchDatalab/.github/blob/main/img/team.jpg" alt="IE Research Datalab Team" width="80%">
 
 ## Build to Breakthrough
 
 Meet David Gómez-Ullate, Vice Dean of Research at IE School of Science and Technology, and head of IE Research Datalab.
 
 <a href="https://www.youtube.com/watch?v=E8Q9kFeZ1t0">
-  <img src="https://github.com/IEResearchDatalab/.github/blob/main/img/thumbail.jpg" alt="IE School of Science & Technology from every angle - David Gómez Ullate" title="IE School of Science & Technology from every angle - David Gómez Ullate"/>
+  <img src="https://github.com/IEResearchDatalab/.github/blob/main/img/thumbail.jpg" alt="IE School of Science & Technology from every angle - David Gómez Ullate" title="IE School of Science & Technology from every angle - David Gómez Ullate" width="60%"/>
 </a>
 
 <!-- To generate a new one: https://markdown-videos.jorgenkh.no/ -->
