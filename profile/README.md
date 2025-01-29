@@ -1,4 +1,6 @@
-# IE Research Datalab
+# <span style="color:#6dc201;">IE Research Datalab</span>
+
+[![Visit our website](https://img.shields.io/badge/Visit%20our%20website-6dc201?style=for-the-badge&logo=internet-explorer&logoColor=green)](https://www.ie.edu/ieresearchdatalab/)
 
 At IE Research Datalab, we harness data-driven and computational technologies to push the boundaries of scientific research across diverse fields, including biology, medicine, healthcare, social sciences, and energy.
 
